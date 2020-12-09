@@ -1,0 +1,18 @@
+/* This is spared */
+:global .title{
+  font-size: 10px;
+}
+
+.wrapper{
+  color: #28cd41;
+}
+
+.title{
+  font-size: 30px;
+}
+
+.button{
+	/* composes: attr from './another.css'; */
+	/* composes: otherclass anyotherclass;  */
+	padding: 20px;
+}
